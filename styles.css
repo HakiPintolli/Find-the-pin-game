@@ -1,0 +1,150 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #032030;
+}
+.componets{
+    display: inline;
+}
+.try{
+    height: 200px;
+    display: inline;
+    position: absolute;
+    left: 56%;
+    top: 35%;
+    background-color: #0198e3;
+    padding: 15px;
+    border-radius: 13px;
+    text-align: center;
+}
+.nr{
+    display: inline;
+    display: flex;
+    position: relative;
+}
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#pari{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #006494;
+    color: white;
+    font-size: 50px;
+    margin-top: 8px;
+    margin-right: 5px;
+    appearance: none;
+}
+#pari:hover{
+    background-color: #0173a8;
+}
+#dyti{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #006494;
+    font-size: 50px;
+    margin-top: 8px;
+    margin-right: 5px;
+    color: white;
+}
+#dyti:hover{
+    background-color: #0173a8;
+}
+#treti{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #006494;
+    font-size: 50px;
+    margin-top: 8px;
+    margin-right: 5px;
+    color: white;
+}
+#treti:hover{
+    background-color: #0173a8;
+}
+#provo{
+    width: 134px;
+    height: 55px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 25px;
+    background-color: #015b85;
+    margin-top: 10px;
+    color: white;
+}
+#provo:hover{
+    background-color: #2482b1;
+    color: white;
+}
+.numbers{
+    position: relative;
+    border-radius: 12px;
+    background-color:  #006da4;
+    width: 19%;
+    margin-top: 20px;
+    margin-left: 250px;
+    font-size: medium;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.div1{
+    border-radius: 12px;
+    background-color: #015b85;
+}
+
+.div2{
+    border-radius: 12px;
+    background-color: #015b85;
+}
+
+.div3{
+    border-radius: 12px;
+    background-color: #015b85;
+}
+
+.div4{
+    border-radius: 12px;
+    background-color: #015b85;
+}
+
+.div5{
+    border-radius: 12px;
+    background-color: #015b85;
+}
+
+
+ul{
+    text-decoration: none;
+    
+}
+li{
+    display: inline;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 28px;
+
+}
+#refresh{
+    width: 80px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #015b85;
+    font-size: 18px;
+    color: white;
+}
+#refresh:hover{
+    background-color: #2482b1;
+    color: white;
+}
